@@ -1,4 +1,3 @@
-# ReconMethology
 # 🎯 ReconMethodology
 
 > A professional bug bounty reconnaissance methodology built from real-world hunting experience, automation, and practical attack surface analysis.
